@@ -25,7 +25,7 @@ This repo:
 
 ## Installation
 
-This repo was tested with Ubuntu 16.04.5 LTS, Python 3.5, PyTorch 0.4.0, and CUDA 9.0. But it should be runnable with recent PyTorch versions >=0.4.0
+This repo was tested with Python 3.6.10, PyTorch 1.6.0. It should be runnable with recent PyTorch versions >=1.0.0
 
 ## Running
 
